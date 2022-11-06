@@ -1,6 +1,7 @@
 # DRG-Enemy-Radar
 
 Project created by Ness-9 (Discord @Ness 9#6476)
+
 Published mod can be found at: https://drg.old.mod.io/enemy-radar/
 
 ## Usage
